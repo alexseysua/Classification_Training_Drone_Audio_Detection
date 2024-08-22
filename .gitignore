@@ -3,3 +3,4 @@ FINISHED_V7/
 *.keras
 *.pkl
 *.png
+!FINISHED_V7/hear_put_data.txt
