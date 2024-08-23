@@ -3,6 +3,7 @@ FINISHED_V7/*
 !FINISHED_V7/ours
 !FINISHED_V7/ours_2
 !FINISHED_V7/ours_3
+!FINISHED_V7/mistakes
 *.h5
 *.keras
 *.pkl
