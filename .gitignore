@@ -1,5 +1,6 @@
 FINISHED_V7/*
 !FINISHED_V7/hear_put_data.txt
+!FINISHED_V7/ours
 *.h5
 *.keras
 *.pkl
